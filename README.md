@@ -1,0 +1,2 @@
+# HitorNotMusicNeuralNet
+Predictor Variables / Covariates : year of release, length of recording, binary indicator variables of whether jazz or rock and roll. Response Variable : Binary variable indicating whether Hit or Not (on Billboard). Similar to education neural net (predicting student scores), used stochastic gradient descent with online learning and simple gradient descent with batch learning as 2 different optimization methods. 2 layered neural net implemented from scratch with only Numpy and Scipy Python libraries
